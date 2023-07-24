@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 pip install openai
+=======
+pip install openai
+>>>>>>> 8122e51 (init)
 pip install streamlit
