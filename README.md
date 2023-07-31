@@ -16,7 +16,7 @@ As a researcher or scientific writer, you may often find yourself needing to qui
 * Split the articles into paragraphs or sentences for better summarization.
 
 4. Implement the summarization function:
-* Utilize OpenAI's GPT-3 model to generate summaries.
+* Utilize OpenAI's GPT-3.5 model to generate summaries.
 * Pass the article text to the model and receive a summary in return.
 
 5. Build the Streamlit application:
