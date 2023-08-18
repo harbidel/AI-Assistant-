@@ -27,7 +27,7 @@ As a researcher or scientific writer, you may often find yourself needing to qui
 * Process the user input and run it through the summarization function.
 * Show the generated summary on the Streamlit app interface.
 
-7. Improve user experience (optional):
+7. Improve user experience:
 * Add error handling for invalid inputs or failed API calls.
 * Customize the Streamlit app with additional features like word limits, summarization quality adjustments, or multiple language support.
 
