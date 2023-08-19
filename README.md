@@ -6,7 +6,7 @@ As a researcher or scientific writer, you may often find yourself needing to qui
 
 1. Set up your environment:
 * Install the necessary libraries, including OpenAI's API wrapper and Streamlit.
-* Obtain an API key from OpenAI to use their GPT-3.5 model.
+* Obtain an API key from OpenAI to use their GPT 3.5 model.
 
 2. Fetch the scientific articles:
 * Access the scientific articles either from a local database or through web scraping from trusted sources.
